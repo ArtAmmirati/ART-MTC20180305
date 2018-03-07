@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\Desktop\ArtsCalculator\ArtsCalculator\bin\Debug\ArtsCalculator.exe.config
+C:\Users\MTCStudent\Desktop\ArtsCalculator\ArtsCalculator\bin\Debug\ArtsCalculator.exe
+C:\Users\MTCStudent\Desktop\ArtsCalculator\ArtsCalculator\bin\Debug\ArtsCalculator.pdb
+C:\Users\MTCStudent\Desktop\ArtsCalculator\ArtsCalculator\obj\Debug\ArtsCalculator.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\ArtsCalculator\ArtsCalculator\obj\Debug\ArtsCalculator.ArtsCalculator.resources
+C:\Users\MTCStudent\Desktop\ArtsCalculator\ArtsCalculator\obj\Debug\ArtsCalculator.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ArtsCalculator\ArtsCalculator\obj\Debug\ArtsCalculator.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ArtsCalculator\ArtsCalculator\obj\Debug\ArtsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\ArtsCalculator\ArtsCalculator\obj\Debug\ArtsCalculator.exe
+C:\Users\MTCStudent\Desktop\ArtsCalculator\ArtsCalculator\obj\Debug\ArtsCalculator.pdb
